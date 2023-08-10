@@ -1,0 +1,6 @@
+C:\Users\h\Desktop\visual\tablesforloop\tablesforloop\bin\Debug\tablesforloop.exe.config
+C:\Users\h\Desktop\visual\tablesforloop\tablesforloop\bin\Debug\tablesforloop.exe
+C:\Users\h\Desktop\visual\tablesforloop\tablesforloop\bin\Debug\tablesforloop.pdb
+C:\Users\h\Desktop\visual\tablesforloop\tablesforloop\obj\Debug\tablesforloop.csprojResolveAssemblyReference.cache
+C:\Users\h\Desktop\visual\tablesforloop\tablesforloop\obj\Debug\tablesforloop.exe
+C:\Users\h\Desktop\visual\tablesforloop\tablesforloop\obj\Debug\tablesforloop.pdb
