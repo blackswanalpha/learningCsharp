@@ -1,0 +1,6 @@
+C:\Users\h\Desktop\visual\schoolfees\schoolfees\bin\Debug\schoolfees.exe.config
+C:\Users\h\Desktop\visual\schoolfees\schoolfees\bin\Debug\schoolfees.exe
+C:\Users\h\Desktop\visual\schoolfees\schoolfees\bin\Debug\schoolfees.pdb
+C:\Users\h\Desktop\visual\schoolfees\schoolfees\obj\Debug\schoolfees.csprojResolveAssemblyReference.cache
+C:\Users\h\Desktop\visual\schoolfees\schoolfees\obj\Debug\schoolfees.exe
+C:\Users\h\Desktop\visual\schoolfees\schoolfees\obj\Debug\schoolfees.pdb
